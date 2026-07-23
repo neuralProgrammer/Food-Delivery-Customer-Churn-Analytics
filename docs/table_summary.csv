@@ -1,0 +1,12 @@
+Table,Rows,Columns,Missing Values,Duplicate Rows
+olist_closed_deals_dataset.csv,842,14,3300,0
+olist_customers_dataset.csv,99441,5,0,0
+olist_geolocation_dataset.csv,1000163,5,0,261831
+olist_marketing_qualified_leads_dataset.csv,8000,4,60,0
+olist_order_items_dataset.csv,112650,7,0,0
+olist_order_payments_dataset.csv,103886,5,0,0
+olist_order_reviews_dataset.csv,99224,7,145903,0
+olist_orders_dataset.csv,99441,8,4908,0
+olist_products_dataset.csv,32951,9,2448,0
+olist_sellers_dataset.csv,3095,4,0,0
+product_category_name_translation.csv,71,2,0,0
